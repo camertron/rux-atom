@@ -1,0 +1,14 @@
+{
+  "name": "rux",
+  "version": "1.0.0",
+  "description": "Rux syntax highlighting for Atom.",
+  "repository": "https://github.com/camertron/rux-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.11.0"
+  },
+  "scripts": {
+  },
+  "dependencies": {
+  }
+}
